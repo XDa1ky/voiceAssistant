@@ -1,0 +1,15 @@
+{
+    "123": {
+        "login": "test",
+        "password": "test123",
+        "city": "Moscow",
+        "commands": []
+    },
+    "250883409": {
+        "name": "\u0425\u0435 \u0421\u043e\u043d",
+        "login": "xDa1ky",
+        "password": "Qwerty123",
+        "city": "Saint-Petersburg",
+        "commands": []
+    }
+}
